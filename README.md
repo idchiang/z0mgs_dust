@@ -14,7 +14,7 @@ This fitting method is originally developed in [Gordon et al. (2014)](http://ads
 Under construction.
 
 ## Main Contributors
-I-Da Chiang (江宜達)
+I-Da Chiang
 
 ## Attribution
 Please cite [Chiang et al. (2018)](http://adsabs.harvard.edu/abs/2018ApJ...865..117C) if you find this code useful in your research.
